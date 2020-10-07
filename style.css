@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Nova+Mono&display=swap");
+* {
+  font-family: "Nova Mono", monospace;
+}
+
+.myPage {
+  height: 100vh;
+}
+/*# sourceMappingURL=style.css.map */
